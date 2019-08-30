@@ -1,10 +1,10 @@
 Conway's Game of Life takes place on an infinite two-dimensional board of square cells. 
 Each cell is either dead or alive, and at each tick, the following rules apply:
 
-  •	Any live cell with less than two live neighbours dies.
-  •	Any live cell with two or three live neighbours remains living.
-  •	Any live cell with more than three live neighbours dies.
-  •	Any dead cell with exactly three live neighbours becomes a live cell.
+  - Any live cell with less than two live neighbours dies.
+  - Any live cell with two or three live neighbours remains living.
+  - Any live cell with more than three live neighbours dies.
+  - Any dead cell with exactly three live neighbours becomes a live cell.
 
 A cell neighbours another cell if it is horizontally, vertically, or diagonally adjacent.
 
